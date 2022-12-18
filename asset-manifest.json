@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/github.io/practice_movieList/static/js/main.6e9f88eb.js",
-    "index.html": "/github.io/practice_movieList/index.html",
-    "main.6e9f88eb.js.map": "/github.io/practice_movieList/static/js/main.6e9f88eb.js.map"
+    "main.js": "/practice_movieList/static/js/main.6e9f88eb.js",
+    "index.html": "/practice_movieList/index.html",
+    "main.6e9f88eb.js.map": "/practice_movieList/static/js/main.6e9f88eb.js.map"
   },
   "entrypoints": [
     "static/js/main.6e9f88eb.js"
